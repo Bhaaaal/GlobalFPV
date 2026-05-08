@@ -1,0 +1,859 @@
+Entity,Code,Year,Solar photovoltaic levelized cost of energy
+Argentina,ARG,1995,
+Argentina,ARG,1997,
+Argentina,ARG,2008,
+Argentina,ARG,2009,
+Argentina,ARG,2012,
+Argentina,ARG,2013,
+Argentina,ARG,2014,
+Argentina,ARG,2015,
+Argentina,ARG,2017,
+Argentina,ARG,2018,
+Argentina,ARG,2019,
+Argentina,ARG,2020,
+Argentina,ARG,2021,
+Argentina,ARG,2022,
+Argentina,ARG,2023,
+Argentina,ARG,2024,
+Australia,AUS,2010,0.47926226
+Australia,AUS,2011,0.4866601
+Australia,AUS,2012,0.29418796
+Australia,AUS,2013,0.16840646
+Australia,AUS,2014,0.13854918
+Australia,AUS,2015,0.11901391
+Australia,AUS,2016,0.09129986
+Australia,AUS,2017,0.09988753
+Australia,AUS,2018,0.08195865
+Australia,AUS,2019,0.07813796
+Australia,AUS,2020,0.05878333
+Australia,AUS,2021,0.047998764
+Australia,AUS,2022,0.042101234
+Australia,AUS,2023,0.035940908
+Australia,AUS,2024,0.049015902
+Australia,AUS,1998,
+Australia,AUS,2000,
+Australia,AUS,2001,
+Australia,AUS,2002,
+Australia,AUS,2003,
+Australia,AUS,2004,
+Australia,AUS,2005,
+Australia,AUS,2006,
+Australia,AUS,2007,
+Australia,AUS,2008,
+Australia,AUS,2009,
+Austria,AUT,1995,
+Austria,AUT,1996,
+Austria,AUT,1998,
+Austria,AUT,1999,
+Austria,AUT,2000,
+Austria,AUT,2012,
+Austria,AUT,2013,
+Austria,AUT,2014,
+Austria,AUT,2015,
+Austria,AUT,2016,
+Austria,AUT,2017,
+Austria,AUT,2018,
+Austria,AUT,2022,
+Austria,AUT,2023,
+Austria,AUT,2024,
+Brazil,BRA,2011,0.6053033
+Brazil,BRA,2013,0.43039694
+Brazil,BRA,2014,0.16475248
+Brazil,BRA,2015,0.18041137
+Brazil,BRA,2016,0.1369159
+Brazil,BRA,2017,0.0901882
+Brazil,BRA,2018,0.109691635
+Brazil,BRA,2019,0.10002088
+Brazil,BRA,2020,0.079168685
+Brazil,BRA,2021,0.048540507
+Brazil,BRA,2022,0.044522054
+Brazil,BRA,2023,0.042362943
+Brazil,BRA,2024,0.047700368
+Brazil,BRA,2001,
+Brazil,BRA,2002,
+Brazil,BRA,2003,
+Brazil,BRA,2005,
+Brazil,BRA,2006,
+Brazil,BRA,2007,
+Brazil,BRA,2008,
+Brazil,BRA,2009,
+Brazil,BRA,2010,
+Brazil,BRA,2012,
+Canada,CAN,2018,0.18080433
+Canada,CAN,2019,0.11745339
+Canada,CAN,2020,0.09763462
+Canada,CAN,2021,0.08277906
+Canada,CAN,2022,0.07016715
+Canada,CAN,2023,0.10339027
+Canada,CAN,1990,
+Canada,CAN,1992,
+Canada,CAN,1993,
+Canada,CAN,1994,
+Canada,CAN,1996,
+Canada,CAN,1999,
+Canada,CAN,2000,
+Canada,CAN,2001,
+Canada,CAN,2002,
+Canada,CAN,2003,
+Canada,CAN,2004,
+Canada,CAN,2005,
+Canada,CAN,2006,
+Canada,CAN,2007,
+Canada,CAN,2008,
+Canada,CAN,2009,
+Canada,CAN,2010,
+Canada,CAN,2011,
+Canada,CAN,2012,
+Canada,CAN,2013,
+Canada,CAN,2014,
+Canada,CAN,2015,
+Canada,CAN,2016,
+Canada,CAN,2017,
+Canada,CAN,2024,
+Chile,CHL,2012,0.21183105
+Chile,CHL,2013,0.157189
+Chile,CHL,2014,0.15463941
+Chile,CHL,2015,0.10709144
+Chile,CHL,2016,0.098394565
+Chile,CHL,2017,0.09464638
+Chile,CHL,2018,0.12548593
+Chile,CHL,2019,0.100047104
+Chile,CHL,2020,0.06764591
+Chile,CHL,2021,0.048228715
+Chile,CHL,2022,0.044062603
+Chile,CHL,2023,0.041903578
+Chile,CHL,2009,
+Chile,CHL,2011,
+Chile,CHL,2024,
+China,CHN,2010,0.34322062
+China,CHN,2011,0.30212963
+China,CHN,2012,0.22277415
+China,CHN,2013,0.1744273
+China,CHN,2014,0.130179
+China,CHN,2015,0.09669816
+China,CHN,2016,0.08375809
+China,CHN,2017,0.07319116
+China,CHN,2018,0.055854745
+China,CHN,2019,0.05163111
+China,CHN,2020,0.043841377
+China,CHN,2021,0.039096348
+China,CHN,2022,0.038661644
+China,CHN,2023,0.03606884
+China,CHN,2024,0.033003286
+China,CHN,1996,
+China,CHN,1997,
+China,CHN,1998,
+China,CHN,1999,
+China,CHN,2000,
+China,CHN,2001,
+China,CHN,2002,
+China,CHN,2003,
+China,CHN,2004,
+China,CHN,2005,
+China,CHN,2006,
+China,CHN,2007,
+China,CHN,2008,
+China,CHN,2009,
+Costa Rica,CRI,1999,
+Costa Rica,CRI,2003,
+Costa Rica,CRI,2009,
+Costa Rica,CRI,2011,
+Costa Rica,CRI,2012,
+Costa Rica,CRI,2014,
+Costa Rica,CRI,2015,
+Costa Rica,CRI,2016,
+Costa Rica,CRI,2017,
+Croatia,HRV,2008,
+Croatia,HRV,2009,
+Croatia,HRV,2011,
+Croatia,HRV,2012,
+Croatia,HRV,2014,
+Croatia,HRV,2015,
+Croatia,HRV,2016,
+Croatia,HRV,2017,
+Croatia,HRV,2020,
+Croatia,HRV,2021,
+Croatia,HRV,2023,
+Cyprus,CYP,2010,
+Cyprus,CYP,2011,
+Cyprus,CYP,2012,
+Cyprus,CYP,2013,
+Cyprus,CYP,2016,
+Denmark,DNK,1984,
+Denmark,DNK,1985,
+Denmark,DNK,1986,
+Denmark,DNK,1987,
+Denmark,DNK,1988,
+Denmark,DNK,1989,
+Denmark,DNK,1990,
+Denmark,DNK,1991,
+Denmark,DNK,1992,
+Denmark,DNK,1993,
+Denmark,DNK,1995,
+Denmark,DNK,1996,
+Denmark,DNK,1997,
+Denmark,DNK,1998,
+Denmark,DNK,1999,
+Denmark,DNK,2000,
+Denmark,DNK,2001,
+Denmark,DNK,2002,
+Denmark,DNK,2003,
+Denmark,DNK,2004,
+Denmark,DNK,2005,
+Denmark,DNK,2006,
+Denmark,DNK,2008,
+Denmark,DNK,2010,
+Denmark,DNK,2011,
+Denmark,DNK,2012,
+Denmark,DNK,2013,
+Denmark,DNK,2015,
+Denmark,DNK,2016,
+Denmark,DNK,2017,
+Denmark,DNK,2018,
+Denmark,DNK,2019,
+Denmark,DNK,2020,
+Dominican Republic,DOM,2007,
+Dominican Republic,DOM,2009,
+Dominican Republic,DOM,2011,
+Dominican Republic,DOM,2012,
+Dominican Republic,DOM,2013,
+Dominican Republic,DOM,2014,
+Dominican Republic,DOM,2016,
+Dominican Republic,DOM,2017,
+Dominican Republic,DOM,2018,
+Dominican Republic,DOM,2019,
+Dominican Republic,DOM,2020,
+Dominican Republic,DOM,2024,
+Egypt,EGY,2007,
+Egypt,EGY,2010,
+Egypt,EGY,2015,
+Egypt,EGY,2018,
+Egypt,EGY,2020,
+Egypt,EGY,2021,
+Egypt,EGY,2022,
+Egypt,EGY,2023,
+Egypt,EGY,2024,
+Ethiopia,ETH,2011,
+Ethiopia,ETH,2012,
+Ethiopia,ETH,2015,
+Ethiopia,ETH,2016,
+Ethiopia,ETH,2019,
+Ethiopia,ETH,2022,
+Finland,FIN,2013,
+Finland,FIN,2014,
+Finland,FIN,2015,
+Finland,FIN,2016,
+Finland,FIN,2017,
+Finland,FIN,2018,
+Finland,FIN,2019,
+Finland,FIN,2020,
+Finland,FIN,2021,
+Finland,FIN,2022,
+Finland,FIN,2023,
+Finland,FIN,2024,
+France,FRA,2010,0.44737825
+France,FRA,2011,0.4532506
+France,FRA,2012,0.4612793
+France,FRA,2013,0.27304217
+France,FRA,2014,0.1813376
+France,FRA,2015,0.12674057
+France,FRA,2016,0.09951033
+France,FRA,2017,0.08896357
+France,FRA,2018,0.07493519
+France,FRA,2019,0.06866753
+France,FRA,2020,0.060749594
+France,FRA,2021,0.055964045
+France,FRA,2022,0.06431339
+France,FRA,2023,0.053714838
+France,FRA,2024,0.07124476
+France,FRA,1991,
+France,FRA,1993,
+France,FRA,1996,
+France,FRA,1997,
+France,FRA,1998,
+France,FRA,1999,
+France,FRA,2000,
+France,FRA,2001,
+France,FRA,2002,
+France,FRA,2003,
+France,FRA,2004,
+France,FRA,2005,
+France,FRA,2006,
+France,FRA,2007,
+France,FRA,2008,
+France,FRA,2009,
+Germany,DEU,2010,0.4239759
+Germany,DEU,2011,0.35440132
+Germany,DEU,2012,0.28350118
+Germany,DEU,2013,0.22217561
+Germany,DEU,2014,0.16200085
+Germany,DEU,2015,0.12686153
+Germany,DEU,2016,0.10977753
+Germany,DEU,2017,0.09981053
+Germany,DEU,2018,0.09382947
+Germany,DEU,2019,0.07484928
+Germany,DEU,2020,0.0613189
+Germany,DEU,2021,0.058095884
+Germany,DEU,2022,0.07287973
+Germany,DEU,2023,0.051802453
+Germany,DEU,2024,0.059337635
+Germany,DEU,1984,
+Germany,DEU,1990,
+Germany,DEU,1991,
+Germany,DEU,1992,
+Germany,DEU,1993,
+Germany,DEU,1994,
+Germany,DEU,1995,
+Germany,DEU,1996,
+Germany,DEU,1997,
+Germany,DEU,1998,
+Germany,DEU,1999,
+Germany,DEU,2000,
+Germany,DEU,2001,
+Germany,DEU,2002,
+Germany,DEU,2003,
+Germany,DEU,2004,
+Germany,DEU,2005,
+Germany,DEU,2006,
+Germany,DEU,2007,
+Germany,DEU,2008,
+Germany,DEU,2009,
+Greece,GRC,2010,0.4368785
+Greece,GRC,2011,0.2967477
+Greece,GRC,2012,0.17799833
+Greece,GRC,2013,0.15726577
+Greece,GRC,2017,0.15363817
+Greece,GRC,2018,0.12098935
+Greece,GRC,2020,0.05679697
+Greece,GRC,2021,0.053668547
+Greece,GRC,2022,0.0744103
+Greece,GRC,2023,0.046122912
+Greece,GRC,2024,0.043779794
+Greece,GRC,2014,
+Greece,GRC,2015,
+Greece,GRC,2016,
+Greece,GRC,2019,
+India,IND,2010,0.39814004
+India,IND,2011,0.25257427
+India,IND,2012,0.21484716
+India,IND,2013,0.21442719
+India,IND,2014,0.13954785
+India,IND,2015,0.09116834
+India,IND,2016,0.085864194
+India,IND,2017,0.07831649
+India,IND,2018,0.05670857
+India,IND,2019,0.04477593
+India,IND,2020,0.04242284
+India,IND,2021,0.039525174
+India,IND,2022,0.03902831
+India,IND,2023,0.042047445
+India,IND,2024,0.037806813
+India,IND,1990,
+India,IND,1991,
+India,IND,1992,
+India,IND,1993,
+India,IND,1994,
+India,IND,1995,
+India,IND,1996,
+India,IND,1997,
+India,IND,1998,
+India,IND,1999,
+India,IND,2000,
+India,IND,2001,
+India,IND,2002,
+India,IND,2003,
+India,IND,2004,
+India,IND,2005,
+India,IND,2006,
+India,IND,2007,
+India,IND,2008,
+India,IND,2009,
+Indonesia,IDN,2017,
+Indonesia,IDN,2018,
+Indonesia,IDN,2019,
+Indonesia,IDN,2020,
+Ireland,IRL,2003,
+Ireland,IRL,2009,
+Ireland,IRL,2010,
+Ireland,IRL,2011,
+Ireland,IRL,2012,
+Ireland,IRL,2013,
+Ireland,IRL,2014,
+Ireland,IRL,2015,
+Ireland,IRL,2016,
+Ireland,IRL,2017,
+Ireland,IRL,2018,
+Ireland,IRL,2019,
+Ireland,IRL,2020,
+Ireland,IRL,2022,
+Ireland,IRL,2023,
+Ireland,IRL,2024,
+Italy,ITA,2010,0.4620927
+Italy,ITA,2011,0.44100258
+Italy,ITA,2012,0.22445217
+Italy,ITA,2013,0.19903593
+Italy,ITA,2014,0.15711801
+Italy,ITA,2017,0.07992641
+Italy,ITA,2018,0.06986017
+Italy,ITA,2019,0.064458765
+Italy,ITA,2020,0.060634963
+Italy,ITA,2021,0.05704833
+Italy,ITA,2022,0.063661024
+Italy,ITA,2023,0.055382412
+Italy,ITA,2024,0.060940288
+Italy,ITA,1989,
+Italy,ITA,1991,
+Italy,ITA,1992,
+Italy,ITA,1993,
+Italy,ITA,1994,
+Italy,ITA,1995,
+Italy,ITA,1996,
+Italy,ITA,1997,
+Italy,ITA,1998,
+Italy,ITA,1999,
+Italy,ITA,2000,
+Italy,ITA,2001,
+Italy,ITA,2002,
+Italy,ITA,2003,
+Italy,ITA,2004,
+Italy,ITA,2005,
+Italy,ITA,2006,
+Italy,ITA,2007,
+Italy,ITA,2008,
+Italy,ITA,2009,
+Italy,ITA,2015,
+Italy,ITA,2016,
+Japan,JPN,2011,0.5019107
+Japan,JPN,2012,0.3532279
+Japan,JPN,2013,0.29248548
+Japan,JPN,2014,0.25873783
+Japan,JPN,2015,0.18436754
+Japan,JPN,2016,0.18531564
+Japan,JPN,2017,0.14602101
+Japan,JPN,2018,0.13488448
+Japan,JPN,2019,0.12379583
+Japan,JPN,2020,0.11522754
+Japan,JPN,2021,0.09991017
+Japan,JPN,2022,0.0998007
+Japan,JPN,2023,0.10275269
+Japan,JPN,2024,0.11971825
+Japan,JPN,2000,
+Japan,JPN,2005,
+Japan,JPN,2010,
+Mexico,MEX,2012,0.3219435
+Mexico,MEX,2013,0.20746806
+Mexico,MEX,2014,0.14785196
+Mexico,MEX,2015,0.0916236
+Mexico,MEX,2016,0.1720178
+Mexico,MEX,2017,0.15573518
+Mexico,MEX,2018,0.09097554
+Mexico,MEX,2019,0.08188785
+Mexico,MEX,2020,0.06056664
+Mexico,MEX,2021,0.054681223
+Mexico,MEX,2022,0.06928031
+Mexico,MEX,2023,0.07117925
+Mexico,MEX,2007,
+Mexico,MEX,2008,
+Mexico,MEX,2009,
+Mexico,MEX,2010,
+Mexico,MEX,2011,
+Morocco,MAR,2000,
+Morocco,MAR,2001,
+Morocco,MAR,2005,
+Morocco,MAR,2007,
+Morocco,MAR,2011,
+Morocco,MAR,2012,
+Morocco,MAR,2013,
+Morocco,MAR,2014,
+Morocco,MAR,2016,
+Morocco,MAR,2017,
+Morocco,MAR,2018,
+Morocco,MAR,2020,
+Morocco,MAR,2021,
+Morocco,MAR,2022,
+Morocco,MAR,2023,
+Morocco,MAR,2024,
+Netherlands,NLD,2016,0.131066
+Netherlands,NLD,2017,0.14681202
+Netherlands,NLD,2018,0.111241385
+Netherlands,NLD,2019,0.1059552
+Netherlands,NLD,2020,0.102525175
+Netherlands,NLD,2021,0.089441374
+Netherlands,NLD,2022,0.092861325
+Netherlands,NLD,2023,0.06690294
+Netherlands,NLD,2024,0.042454433
+Netherlands,NLD,2000,
+Netherlands,NLD,2002,
+Netherlands,NLD,2003,
+Netherlands,NLD,2004,
+Netherlands,NLD,2005,
+Netherlands,NLD,2006,
+Netherlands,NLD,2007,
+Netherlands,NLD,2008,
+Netherlands,NLD,2010,
+Netherlands,NLD,2012,
+Netherlands,NLD,2013,
+Netherlands,NLD,2014,
+Netherlands,NLD,2015,
+New Zealand,NZL,2011,
+New Zealand,NZL,2014,
+New Zealand,NZL,2015,
+New Zealand,NZL,2020,
+New Zealand,NZL,2021,
+New Zealand,NZL,2023,
+New Zealand,NZL,2024,
+Norway,NOR,2001,
+Norway,NOR,2002,
+Norway,NOR,2005,
+Norway,NOR,2006,
+Norway,NOR,2012,
+Norway,NOR,2013,
+Norway,NOR,2015,
+Norway,NOR,2016,
+Norway,NOR,2017,
+Norway,NOR,2018,
+Norway,NOR,2019,
+Norway,NOR,2020,
+Norway,NOR,2021,
+Pakistan,PAK,2009,
+Pakistan,PAK,2012,
+Pakistan,PAK,2014,
+Pakistan,PAK,2015,
+Pakistan,PAK,2016,
+Pakistan,PAK,2017,
+Pakistan,PAK,2018,
+Pakistan,PAK,2021,
+Pakistan,PAK,2022,
+Panama,PAN,2013,
+Panama,PAN,2014,
+Panama,PAN,2015,
+Panama,PAN,2016,
+Peru,PER,2013,
+Peru,PER,2014,
+Peru,PER,2015,
+Peru,PER,2016,
+Peru,PER,2018,
+Peru,PER,2023,
+Peru,PER,2024,
+Philippines,PHL,2005,
+Philippines,PHL,2006,
+Philippines,PHL,2013,
+Philippines,PHL,2014,
+Philippines,PHL,2015,
+Philippines,PHL,2016,
+Philippines,PHL,2017,
+Philippines,PHL,2019,
+Philippines,PHL,2023,
+Philippines,PHL,2024,
+Poland,POL,2020,0.14547783
+Poland,POL,2021,0.09912658
+Poland,POL,2022,0.11552244
+Poland,POL,2023,0.07938438
+Poland,POL,2024,0.0848847
+Poland,POL,2001,
+Poland,POL,2002,
+Poland,POL,2006,
+Poland,POL,2007,
+Poland,POL,2008,
+Poland,POL,2010,
+Poland,POL,2011,
+Poland,POL,2012,
+Poland,POL,2013,
+Poland,POL,2014,
+Poland,POL,2015,
+Poland,POL,2016,
+Poland,POL,2017,
+Portugal,PRT,2018,0.057702452
+Portugal,PRT,2019,0.062793575
+Portugal,PRT,2020,0.054018594
+Portugal,PRT,2021,0.053860113
+Portugal,PRT,2022,0.061871223
+Portugal,PRT,2023,0.053357262
+Portugal,PRT,2003,
+Portugal,PRT,2004,
+Portugal,PRT,2005,
+Portugal,PRT,2006,
+Portugal,PRT,2007,
+Portugal,PRT,2008,
+Portugal,PRT,2009,
+Portugal,PRT,2010,
+Portugal,PRT,2011,
+Portugal,PRT,2012,
+Portugal,PRT,2013,
+Portugal,PRT,2014,
+Portugal,PRT,2015,
+Portugal,PRT,2016,
+Portugal,PRT,2017,
+Russia,RUS,2015,
+Russia,RUS,2018,
+Russia,RUS,2019,
+Russia,RUS,2020,
+Russia,RUS,2021,
+Russia,RUS,2022,
+Russia,RUS,2023,
+Russia,RUS,2024,
+Saudi Arabia,SAU,2018,0.08859211
+Saudi Arabia,SAU,2019,0.06553036
+Saudi Arabia,SAU,2021,0.05460723
+Saudi Arabia,SAU,2022,0.037923265
+Saudi Arabia,SAU,2023,0.044597883
+South Africa,ZAF,2018,0.09859619
+South Africa,ZAF,2019,0.076085165
+South Africa,ZAF,2020,0.073118165
+South Africa,ZAF,2021,0.059937585
+South Africa,ZAF,2022,0.0657366
+South Africa,ZAF,2023,0.076621465
+South Africa,ZAF,2008,
+South Africa,ZAF,2012,
+South Africa,ZAF,2013,
+South Africa,ZAF,2014,
+South Africa,ZAF,2015,
+South Africa,ZAF,2016,
+South Africa,ZAF,2017,
+South Korea,KOR,2010,0.51057905
+South Korea,KOR,2011,0.5323795
+South Korea,KOR,2012,0.2781384
+South Korea,KOR,2013,0.2524902
+South Korea,KOR,2014,0.1940587
+South Korea,KOR,2015,0.17809922
+South Korea,KOR,2016,0.17048205
+South Korea,KOR,2017,0.11438441
+South Korea,KOR,2018,0.093988225
+South Korea,KOR,2019,0.086199425
+South Korea,KOR,2020,0.0653705
+South Korea,KOR,2021,0.06298667
+South Korea,KOR,2022,0.07682194
+South Korea,KOR,2023,0.068457134
+South Korea,KOR,2024,0.08359899
+South Korea,KOR,2004,
+South Korea,KOR,2005,
+South Korea,KOR,2006,
+South Korea,KOR,2007,
+South Korea,KOR,2008,
+South Korea,KOR,2009,
+Spain,ESP,2010,0.36775112
+Spain,ESP,2011,0.2554415
+Spain,ESP,2012,0.20554675
+Spain,ESP,2013,0.1567802
+Spain,ESP,2014,0.15056647
+Spain,ESP,2015,0.087270476
+Spain,ESP,2019,0.05490358
+Spain,ESP,2020,0.050298918
+Spain,ESP,2021,0.05366831
+Spain,ESP,2022,0.04773831
+Spain,ESP,2023,0.03949096
+Spain,ESP,2024,0.05306112
+Spain,ESP,1990,
+Spain,ESP,1991,
+Spain,ESP,1992,
+Spain,ESP,1993,
+Spain,ESP,1994,
+Spain,ESP,1995,
+Spain,ESP,1996,
+Spain,ESP,1997,
+Spain,ESP,1998,
+Spain,ESP,1999,
+Spain,ESP,2000,
+Spain,ESP,2001,
+Spain,ESP,2002,
+Spain,ESP,2003,
+Spain,ESP,2004,
+Spain,ESP,2005,
+Spain,ESP,2006,
+Spain,ESP,2007,
+Spain,ESP,2008,
+Spain,ESP,2009,
+Spain,ESP,2016,
+Spain,ESP,2017,
+Spain,ESP,2018,
+Sweden,SWE,1984,
+Sweden,SWE,1990,
+Sweden,SWE,1991,
+Sweden,SWE,1992,
+Sweden,SWE,1993,
+Sweden,SWE,1994,
+Sweden,SWE,1995,
+Sweden,SWE,1996,
+Sweden,SWE,1997,
+Sweden,SWE,1998,
+Sweden,SWE,1999,
+Sweden,SWE,2001,
+Sweden,SWE,2002,
+Sweden,SWE,2003,
+Sweden,SWE,2004,
+Sweden,SWE,2005,
+Sweden,SWE,2006,
+Sweden,SWE,2007,
+Sweden,SWE,2008,
+Sweden,SWE,2009,
+Sweden,SWE,2010,
+Sweden,SWE,2011,
+Sweden,SWE,2012,
+Sweden,SWE,2013,
+Sweden,SWE,2014,
+Sweden,SWE,2015,
+Sweden,SWE,2016,
+Sweden,SWE,2017,
+Sweden,SWE,2018,
+Sweden,SWE,2019,
+Sweden,SWE,2020,
+Sweden,SWE,2021,
+Sweden,SWE,2022,
+Sweden,SWE,2023,
+Sweden,SWE,2024,
+Turkey,TUR,2016,0.1410048
+Turkey,TUR,2017,0.13367066
+Turkey,TUR,2018,0.1063604
+Turkey,TUR,2019,0.09617199
+Turkey,TUR,2020,0.07392844
+Turkey,TUR,2021,0.07055427
+Turkey,TUR,2022,0.07368639
+Turkey,TUR,2023,0.069532745
+Turkey,TUR,2024,0.08511808
+Turkey,TUR,1998,
+Turkey,TUR,2000,
+Turkey,TUR,2009,
+Turkey,TUR,2010,
+Turkey,TUR,2011,
+Turkey,TUR,2012,
+Turkey,TUR,2013,
+Turkey,TUR,2014,
+Turkey,TUR,2015,
+Ukraine,UKR,2013,
+Ukraine,UKR,2014,
+Ukraine,UKR,2017,
+Ukraine,UKR,2019,
+Ukraine,UKR,2020,
+Ukraine,UKR,2021,
+Ukraine,UKR,2023,
+United Kingdom,GBR,2010,0.6038623
+United Kingdom,GBR,2011,0.55635816
+United Kingdom,GBR,2012,0.32609594
+United Kingdom,GBR,2013,0.26325044
+United Kingdom,GBR,2014,0.21484292
+United Kingdom,GBR,2015,0.16673921
+United Kingdom,GBR,2016,0.15763909
+United Kingdom,GBR,2017,0.12884429
+United Kingdom,GBR,2018,0.13090456
+United Kingdom,GBR,2019,0.097109646
+United Kingdom,GBR,2020,0.08204684
+United Kingdom,GBR,2021,0.075411096
+United Kingdom,GBR,2022,0.07913234
+United Kingdom,GBR,2023,0.08046898
+United Kingdom,GBR,1989,
+United Kingdom,GBR,1990,
+United Kingdom,GBR,1991,
+United Kingdom,GBR,1992,
+United Kingdom,GBR,1993,
+United Kingdom,GBR,1994,
+United Kingdom,GBR,1995,
+United Kingdom,GBR,1996,
+United Kingdom,GBR,1997,
+United Kingdom,GBR,1998,
+United Kingdom,GBR,1999,
+United Kingdom,GBR,2000,
+United Kingdom,GBR,2001,
+United Kingdom,GBR,2002,
+United Kingdom,GBR,2003,
+United Kingdom,GBR,2004,
+United Kingdom,GBR,2005,
+United Kingdom,GBR,2006,
+United Kingdom,GBR,2007,
+United Kingdom,GBR,2008,
+United Kingdom,GBR,2009,
+United Kingdom,GBR,2024,
+United States,USA,2010,0.2721984
+United States,USA,2011,0.29597557
+United States,USA,2012,0.25382417
+United States,USA,2013,0.22755995
+United States,USA,2014,0.17378798
+United States,USA,2015,0.16047578
+United States,USA,2016,0.14337352
+United States,USA,2017,0.10542709
+United States,USA,2018,0.081707984
+United States,USA,2019,0.06853293
+United States,USA,2020,0.06680542
+United States,USA,2021,0.06236243
+United States,USA,2022,0.06014147
+United States,USA,2023,0.058626875
+United States,USA,2024,0.06952483
+United States,USA,1984,
+United States,USA,1985,
+United States,USA,1986,
+United States,USA,1987,
+United States,USA,1988,
+United States,USA,1989,
+United States,USA,1990,
+United States,USA,1991,
+United States,USA,1998,
+United States,USA,1999,
+United States,USA,2000,
+United States,USA,2001,
+United States,USA,2002,
+United States,USA,2003,
+United States,USA,2004,
+United States,USA,2005,
+United States,USA,2006,
+United States,USA,2007,
+United States,USA,2008,
+United States,USA,2009,
+Uruguay,URY,2011,
+Uruguay,URY,2012,
+Uruguay,URY,2013,
+Uruguay,URY,2014,
+Uruguay,URY,2015,
+Uruguay,URY,2017,
+Vietnam,VNM,2009,
+Vietnam,VNM,2011,
+Vietnam,VNM,2012,
+Vietnam,VNM,2013,
+Vietnam,VNM,2015,
+Vietnam,VNM,2016,
+Vietnam,VNM,2017,
+Vietnam,VNM,2019,
+Vietnam,VNM,2020,
+Vietnam,VNM,2021,
+Vietnam,VNM,2022,
+Vietnam,VNM,2023,
+Vietnam,VNM,2024,
+World,OWID_WRL,2010,0.41695616
+World,OWID_WRL,2011,0.34990245
+World,OWID_WRL,2012,0.2600221
+World,OWID_WRL,2013,0.20022082
+World,OWID_WRL,2014,0.18286598
+World,OWID_WRL,2015,0.13510516
+World,OWID_WRL,2016,0.118348815
+World,OWID_WRL,2017,0.092944756
+World,OWID_WRL,2018,0.07864044
+World,OWID_WRL,2019,0.068642035
+World,OWID_WRL,2020,0.06099978
+World,OWID_WRL,2021,0.05452617
+World,OWID_WRL,2022,0.051091637
+World,OWID_WRL,2023,0.04237786
+World,OWID_WRL,2024,0.04261977
+World,OWID_WRL,2007,
+World,OWID_WRL,2008,
+World,OWID_WRL,2009,
+World,OWID_WRL,2000,
+World,OWID_WRL,2001,
+World,OWID_WRL,2002,
+World,OWID_WRL,2003,
+World,OWID_WRL,2004,
+World,OWID_WRL,2005,
+World,OWID_WRL,2006,
+World,OWID_WRL,1984,
+World,OWID_WRL,1985,
+World,OWID_WRL,1986,
+World,OWID_WRL,1987,
+World,OWID_WRL,1988,
+World,OWID_WRL,1989,
+World,OWID_WRL,1990,
+World,OWID_WRL,1991,
+World,OWID_WRL,1992,
+World,OWID_WRL,1993,
+World,OWID_WRL,1994,
+World,OWID_WRL,1995,
+World,OWID_WRL,1996,
+World,OWID_WRL,1997,
+World,OWID_WRL,1998,
+World,OWID_WRL,1999,
