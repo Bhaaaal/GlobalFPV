@@ -27,7 +27,7 @@ power = power[power['FPV_TWh'] > 0].copy()
 # ========= 2. Read electricity prices =========
 price = pd.read_excel('./data/2024_ElectricityPrice.xlsx')
 
-price = price[['ISO3', 'Rprice', 'Bprice']].rename(columns={
+price = price[['ISO3', 'Residential price (USD kWh⁻¹)', 'Business price (USD kWh⁻¹)']].rename(columns={
     'ISO3': 'iso3'
 })
 
@@ -63,8 +63,8 @@ df['LCOE'] = df['LCOE'].fillna(0.04261977)
 
 
 # ========= 7. Calculate unit and total net profit =========
-df['FPV_NetProfit_R_perkWH'] = df['Rprice'] - df['LCOE']
-df['FPV_NetProfit_B_perkWH'] = df['Bprice'] - df['LCOE']
+df['FPV_NetProfit_R_perkWH'] = df['Residential price (USD kWh⁻¹)'] - df['LCOE']
+df['FPV_NetProfit_B_perkWH'] = df['Business price (USD kWh⁻¹)'] - df['LCOE']
 
 df['FPV_NetProfit_R'] = df['FPV_NetProfit_R_perkWH'] * df['FPV_TWh'] * 1e9
 df['FPV_NetProfit_B'] = df['FPV_NetProfit_B_perkWH'] * df['FPV_TWh'] * 1e9
